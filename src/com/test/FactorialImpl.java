@@ -1,6 +1,6 @@
 package com.test;
 
-public class FactorialAlt1Impl implements IFactorial{
+public class FactorialImpl implements IFactorial{
 
 	@Override
 	public long calcular(int numero) {
